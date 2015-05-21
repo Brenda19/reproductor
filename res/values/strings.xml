@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiReproductor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_adapter">AdapterActivity</string>
+    <string name="title_activity_item">ItemActivity</string>
+    <string name="title_activity_adaptador">AdaptadorActivity</string>
+    <string name="title_activity_cancion1">Cancion1</string>
+    <string name="title_activity_cancion2">Cancion2</string>
+    <string name="title_activity_cancion3">Cancion3</string>
+    <string name="title_activity_cancion4">Cancion4</string>
+    <string name="title_activity_cancion5">Cancion5</string>
+
+</resources>
